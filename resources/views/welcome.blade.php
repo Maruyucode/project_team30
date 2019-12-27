@@ -87,35 +87,6 @@
                 Laravelがんばるぞ!えいえいおー
             </div>
 
-<<<<<<< HEAD
-            <div class="links">
-                <a href="https://laravel.com/docs">Docsドックス</a>
-                <a href="https://laracasts.com">Laracasts</a>
-                <a href="https://laravel-news.com">News</a>
-                <a href="https://blog.laravel.com">Blog</a>
-                <a href="https://nova.laravel.com">Nova</a>
-                <a href="https://forge.laravel.com">Forge</a>
-                <a href="https://vapor.laravel.com">Vapor</a>
-                <a href="https://github.com/laravel/laravel">GitHub</a>
-=======
-            <div class="content">
-                <div class="title m-b-md">
-                    チーム開発がんばるぞ
-                </div>
-
-                <div class="links">
-                    <a href="https://laravel.com/docs">Docsドックス</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">Newsニュース</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://vapor.laravel.com">Vapor</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
-                </div>
->>>>>>> 6d261275fc1e35a8cb948c79bd1a94dea870a534
-            </div>
-        </div>
     </div>
 </body>
 
