@@ -86,7 +86,7 @@
             <div class="title m-b-md">
                 うんこ
             </div>
-            <div>うんこ</div>
+            <div><a href="https://gsacademy.tokyo/">うんこ</a></div>
             <div>うんこ</div>
             <div>うんこ</div>
             <div>うんこ</div>
