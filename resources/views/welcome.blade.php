@@ -84,15 +84,9 @@
 
         <div class="content">
             <div class="title m-b-md">
-                うんこ
+                Laravel
             </div>
-            <div><a href="https://gsacademy.tokyo/">うんこ</a></div>
-            <div>うんこ</div>
-            <div>うんこ</div>
-            <div>うんこ</div>
-            <div>うんこ</div>
-            <div>うんこ</div>
-            <div>うんこ</div>
+            
         </div>
     </div>
 </body>
