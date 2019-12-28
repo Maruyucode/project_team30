@@ -86,9 +86,7 @@
             <div class="title m-b-md">
                 Laravel test test
             </div>
-            <div>
-                <a href="{{ route('login') }}">profile</a>
-            </div>
+
         </div>
     </div>
 </body>
